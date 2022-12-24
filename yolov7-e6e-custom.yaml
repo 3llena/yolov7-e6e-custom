@@ -1,5 +1,5 @@
 train: ./data/train
 val: ./data/valid
 
-nc: 9
-names: ['MBT','MECH','INF','SPG','SPAA','MLRS','STATIC','TRUCK','CAR']
+nc: 8
+names: ['MBT','MECH','INF','SPG-AA','MLRS-BM','STATIC','TRUCK','CAR']
