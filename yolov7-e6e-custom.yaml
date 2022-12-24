@@ -1,5 +1,4 @@
-train: ./data/train
-val: ./data/valid
+train: ./yolov7-e6e-custom/raw
 
 nc: 8
 names: ['MBT','MECH','INF','SPG-AA','MLRS-BM','STATIC','TRUCK','CAR']
