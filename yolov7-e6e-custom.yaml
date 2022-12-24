@@ -1,4 +1,5 @@
-train: ./yolov7-e6e-custom/raw
+train: ./yolov7-e6e-custom/train
+val: ./yolov7-e6e-custom/val
 
 nc: 8
 names: ['MBT','MECH','INF','SPG-AA','MLRS-BM','STATIC','TRUCK','CAR']
